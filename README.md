@@ -1,4 +1,4 @@
 # assign2git
 Tahir Pervez
 "First Comment"
-"This is a change on newbranch"
+"Delete 2 comments as conflict resolution"
